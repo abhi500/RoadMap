@@ -1,0 +1,19 @@
+{
+  "name": "roadmap",
+  "version": "1.0.0",
+  "description": "It's a website where you will find resources to start your software developer journey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi500/RoadMap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi500/RoadMap/issues"
+  },
+  "homepage": "https://github.com/abhi500/RoadMap#readme"
+}
